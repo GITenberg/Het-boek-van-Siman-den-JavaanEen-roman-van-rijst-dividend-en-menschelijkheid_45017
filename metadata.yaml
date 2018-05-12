@@ -1,0 +1,34 @@
+_repo: Het-boek-van-Siman-den-JavaanEen-roman-van-rijst-dividend-en-menschelijkheid_45017
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45017-h/images/frontcover.jpg
+creator:
+  author:
+    agent_name: Douwes Dekker, E. F. E.
+    aliases:
+    - Budi, Danoedirdjo Setia
+    - Dekker, E. F. E. Douwes
+    - Setiabuddhi, Danudirdja
+    - Setyabuddhi, D. D.
+    - Setiabudhi, D. D.
+    - Douwes Dekker, Ernest Francois Eugene
+    - Danudirdjo, Setia Budhi
+    birthdate: 1879
+    deathdate: 1950
+    gutenberg_agent_id: '43035'
+    url: http://www.gutenberg.org/2009/agents/43035
+description: ''
+gutenberg_issued: '2014-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45017'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Java (Indonesia) -- Fiction'
+title: "Het boek van Siman den Javaan\r\nEen roman van rijst, dividend en menschelijkheid"
+url: http://www.gutenberg.org/ebooks/45017
