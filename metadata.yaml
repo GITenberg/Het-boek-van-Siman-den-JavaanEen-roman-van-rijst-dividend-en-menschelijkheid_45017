@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '43035'
     url: http://www.gutenberg.org/2009/agents/43035
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45017#Het-boek-van-Siman-den-JavaanEen-roman-van-rijst-dividend-en-menschelijkheid
 gutenberg_issued: '2014-02-25'
 gutenberg_type: Text
 identifiers:
